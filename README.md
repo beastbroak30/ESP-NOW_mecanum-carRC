@@ -81,8 +81,8 @@ Ensure the ESP32 board is set up in Arduino IDE. If not, follow these instructio
 Follow the circuit diagrams provided above to connect your robot and remote components to the ESP32.
 
 ## Upload the Code
-- Upload the `robot.ino` file to the ESP32 that controls the Mecanum wheels.
-- Upload the `remote.ino` file to the ESP32 used for the remote control.
+- Upload the `mechcar.ino` file to the ESP32 that controls the Mecanum wheels.
+- Upload the `mecrc.ino` file to the ESP32 used for the remote control.
 
 ## Power Up the Hardware
 - Power the robot's ESP32 and motors using a power supply (e.g., a battery pack).
