@@ -98,10 +98,10 @@ Here's a sample code snippet showing how to use the `mecmotor` library to contro
 #include <mecmotor.h>
 
 // Motor setup and pin configuration
-MecMotor mec(12, 13, 14, 15); // Example pin configuration
+mecmotor mec; // pin configuration predefined in lib
 
 void setup() {
-  mec.begin();
+  
 }
 
 void loop() {
