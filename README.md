@@ -45,6 +45,7 @@ This project is a Mecanum wheel robot controlled by an ESP32-based remote. It us
 ## Custom `mecmotor` Library
 
 The `mecmotor` library provides functions for controlling two L298N motor drivers with predefined pins. The library allows easy manipulation of the Mecanum wheels for forward, backward, strafe, and diagonal movements.
+> The lib can also be downloaded via arduino lib manager or zip from here  https://github.com/beastbroak30/Mecmotor.git
 
 ### Library Functions
 
